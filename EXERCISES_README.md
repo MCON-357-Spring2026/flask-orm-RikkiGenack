@@ -20,7 +20,7 @@ Implement **all TODOs** in `src/exercises/exercises.py`:
 Inside the repo root:
 ```bash
 pytest -q tests/test_exercises.py            # function-level tests
-pytest -q tests/test_exercises_routes.py     # API route tests that call your functions
+pytest -q tests/test_exercise_routes.py     # API route tests that call your functions
 ```
 
 ## Things to watch for
