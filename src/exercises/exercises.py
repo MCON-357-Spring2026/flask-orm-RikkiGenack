@@ -7,7 +7,7 @@ from __future__ import annotations
 
 from typing import Optional
 
-import assignment
+
 from flask import request
 from multiprocessing.reduction import duplicate
 from sqlalchemy.exc import IntegrityError
