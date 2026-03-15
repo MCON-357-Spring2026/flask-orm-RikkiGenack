@@ -37,6 +37,6 @@ pip install -r requirements.txt
 ## Run tests
 ```bash
 pytest -q tests/test_exercises.py          # function-level exercises
-pytest -q tests/test_exercises_routes.py   # API routes powered by your exercises
+pytest -q tests/test_exercise_routes.py   # API routes powered by your exercises
 pytest -q                                  # everything
 ```
